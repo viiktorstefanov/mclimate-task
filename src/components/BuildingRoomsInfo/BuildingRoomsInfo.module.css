@@ -1,0 +1,12 @@
+.floor-info-item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    filter: invert(40%) sepia(10%) saturate(300%) hue-rotate(200deg);
+}

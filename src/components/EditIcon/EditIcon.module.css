@@ -1,0 +1,8 @@
+.edit-icon {
+    font-size: 2rem;
+}
+
+.edit-icon:hover {
+    cursor: pointer;
+    opacity: 0.5;
+}

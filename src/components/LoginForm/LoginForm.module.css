@@ -1,0 +1,71 @@
+.form {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+  width: 350px;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 1rem;
+  color: #494949;
+  font-family: inherit;
+}
+
+.error {
+  color: red;
+  margin-bottom: 1rem;
+  font-size: 0.8rem;
+}
+
+.label {
+  color: #494949;
+}
+
+.inputGroup {
+  margin-bottom: 1rem;
+  text-align: left;
+}
+
+.inputGroup label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  font-family: inherit;
+}
+
+.input {
+  width: 100%;
+  padding: 0.5rem;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-family: inherit;
+}
+
+.button {
+  width: 100%;
+  padding: 0.7rem;
+  background: #42b2e6;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-family: inherit;
+  text-transform: uppercase;
+  font-size: 1rem;
+  margin-top: 1rem;
+}
+
+.button:hover {
+  background: #1e3c72;
+}
+
+.input:focus {
+  outline: 2px solid #42b2e6;
+  border: none;
+  box-shadow: 0 0 0 2px #42b2e6;
+  border: 1px solid #42b2e6;
+}
+
+

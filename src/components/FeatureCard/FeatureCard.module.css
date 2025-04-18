@@ -1,0 +1,25 @@
+.featureCard {
+    background-color: white;
+    padding: 2rem;
+    width: 25%;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    text-align: center;
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .featureCard h3 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+  }
+  
+  .featureCard p {
+    font-size: 1rem;
+    color: #3b4454;
+    width: 350px;
+    text-align: left;
+  }

@@ -1,0 +1,51 @@
+.navbar {
+  width: 100%;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 20%;
+  padding: 1rem 2rem;
+  transition: all 0.3s ease-in-out;
+  background: transparent;
+  height: 80px;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.navLinks a {
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 20px;
+  color: #3b4454;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.navLinks a:hover {
+    color: #42b2e6;
+}
+
+.navbar .img-logo {
+  width: initial;
+  max-width: 130px;
+  max-height: 130px;
+  margin: -2px auto 0;
+  vertical-align: middle;
+}
+
+.logout {
+  margin-left: 3rem;
+}

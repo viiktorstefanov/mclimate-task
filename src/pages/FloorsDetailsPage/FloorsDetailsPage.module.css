@@ -1,0 +1,53 @@
+.floorsDetailsPage {
+  padding: 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 3rem;
+  color: #4a5057;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.title h2 {
+  font-weight: 500;
+  font-size: 2rem;
+}
+
+.floorInfo {
+    display: flex;
+    gap: 3rem;
+    width: 100%;
+  }
+
+  .floorImage {
+    width: 10%;
+    height: 100%;
+  }
+
+  .floorDetails {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+
+  .floorDetails h2 {
+    color: #48A7FF;
+    font-size: 2.3rem;
+  }
+
+  .floorDetailsInfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+  }

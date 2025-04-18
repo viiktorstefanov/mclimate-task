@@ -1,0 +1,22 @@
+.item {
+    color: inherit;
+    padding: 1rem 1rem 1rem 1rem;
+  }
+  
+  .item:hover {
+    cursor: pointer;
+  }
+  
+  .active {
+    border: 2px solid #dcdddf;
+    border-bottom-style: solid;
+    border-bottom-color: #dcdddf;
+    border-radius: 6px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: none;
+    border-bottom: none;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+  

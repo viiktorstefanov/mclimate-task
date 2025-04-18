@@ -1,0 +1,23 @@
+.customBtn {
+    background: linear-gradient(45deg, #5EC9E3, #11ACEC, #128DF4, #5D94F0, #5F8BED);
+    box-shadow: 0 8px 12px rgba(66, 178, 230, 0.3), 0 3px 6px rgba(66, 178, 230, 0.2);
+    color: white;
+    outline: none;
+    border: none;
+    border-radius: 1.8rem;
+    padding: 0.5rem 1rem;
+    font-family: inherit;
+    font-size: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    width: fit-content;
+    height: 50px;
+}
+
+.customBtn:hover {
+    cursor: pointer;
+    opacity: 0.9;
+};
+

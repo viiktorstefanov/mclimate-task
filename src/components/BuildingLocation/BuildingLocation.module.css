@@ -1,0 +1,16 @@
+.location {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 1rem;
+    font-size: 1.5rem;
+    padding: 1rem 0;
+    width: 100%;
+    text-align: left;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+    filter: invert(40%) sepia(10%) saturate(300%) hue-rotate(200deg);
+}

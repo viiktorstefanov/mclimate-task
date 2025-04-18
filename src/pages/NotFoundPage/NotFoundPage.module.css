@@ -1,0 +1,32 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    color: #3b4454;
+    height: 65dvh;
+}
+
+.error-header{
+    color: #42B2E6;
+    font-size: 5rem;
+}
+
+.error-msg {
+    margin-top: 1rem;
+}
+
+.link {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    color: #3b4454;
+    text-transform: uppercase;
+}
+
+.arrow {
+    color: #42B2E6;
+    font-size: 2rem;
+}
