@@ -14,7 +14,7 @@ Beyond the initial technical requirements, this project includes a full recreati
 
 #### Project Setup
 
-- Created a scalable and maintainable React.js project structure  
+- Created a scalable and maintainable React project structure  
 - Integrated Redux Toolkit for application-wide state management
 
 #### API Integration (Login Flow)
